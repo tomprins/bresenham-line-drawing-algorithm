@@ -1,3 +1,7 @@
+###########################
+##   Author: Tom Prins   ##
+###########################
+
 # import the required library
 from grid import Grid
 
